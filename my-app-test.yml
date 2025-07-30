@@ -3,4 +3,4 @@ server:
 
 my:
   custom:
-    message: "Message for PROD"
+    message: "Message for test"
