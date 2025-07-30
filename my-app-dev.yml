@@ -1,0 +1,3 @@
+my:
+  custom:
+    message: Hello from Config Server for My App!
