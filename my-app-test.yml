@@ -1,3 +1,6 @@
+server:
+  port: 9091
+
 my:
   custom:
-    message: Hello from the config server  this is test!
+    message: "Message for PROD"
